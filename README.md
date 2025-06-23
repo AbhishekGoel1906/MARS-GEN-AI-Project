@@ -6,7 +6,7 @@ This project provides a web-based tool to automatically generate rich metadata f
 
 This tool enhances document discoverability, classification, and analysis by producing consistent, scalable, and semantically meaningful metadata.
 
-[![Hugging Face Spaces](https://huggingface.co/spaces/abhishek1211/MARS_Project)
+https://huggingface.co/spaces/abhishek1211/MARS_Project
 
 ---
 
